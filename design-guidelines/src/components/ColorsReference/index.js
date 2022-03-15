@@ -7,10 +7,10 @@ function ColorsReference() {
     <div className="colorsReference">
       <div className="colorsReference__title">Colors Reference</div>
       <div className="colorsReference__wrapper">
-        <ColorList color={'Purple'}/>
-        <ColorList color={'Gray'}/>
-        <ColorList color={'Red'}/>
-        <ColorList color={'Blue'}/>
+        <ColorList color={'purple'}/>
+        <ColorList color={'gray'}/>
+        <ColorList color={'red'}/>
+        <ColorList color={'blue'}/>
       </div>
     </div>
   );
