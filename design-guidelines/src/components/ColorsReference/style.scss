@@ -1,0 +1,17 @@
+@import '../../global/colors.scss';
+
+.colorsReference {
+    margin: 0 auto;
+    max-width: 1200px;
+    
+    &__wrapper {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    &__title {
+        font-size: 58px;
+        color: $color-gray-900;
+        margin: 150px 0 0;
+    }
+}

@@ -1,0 +1,19 @@
+@import '../../global/colors.scss';
+
+.colorItem {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+
+    &__fillColor {
+        background: $color-purple-0;
+        display: block;
+        height: 25px;
+        width: 25px;
+    }
+
+    &__colorName {
+        margin: 0 0 0 10px;
+        font-size: 18px;
+    }
+}
