@@ -2,89 +2,31 @@
     "colors": [
         {
             "name" : "color-purple-0",
-            "hex": "#fde8ff"
+            "hex": "#c8cad8"
         },
         {
             "name" : "color-purple-100",
-            "hex": "#fcdbff"
+            "hex": "#783ea0"
         },
         {
             "name" : "color-purple-200",
-            "hex": "#fac4ff"
+            "hex": "#493558"
         },
         {
             "name" : "color-purple-300",
-            "hex": "#f8a6ff"
+            "hex": "#412e50"
         },
         {
             "name" : "color-purple-400",
-            "hex": "#ee7cf7"
+            "hex": "#2b173a"
         },
         {
             "name" : "color-purple-500",
-            "hex": "#f14fff"
+            "hex": "#7b788d"
         },
-        {
-            "name" : "color-purple-600",
-            "hex": "#f14fff"
-        },
-        {
-            "name" : "color-purple-700",
-            "hex": "#ef38ff"
-        },
-        {
-            "name" : "color-purple-800",
-            "hex": "#ed21ff"
-        },
-        {
-            "name" : "color-purple-900",
-            "hex": "#ea00ff"
-        },
-        
-        {
-            "name" : "color-red-0",
-            "hex": "#ffeceb"
-        },
-        {
-            "name" : "color-red-100",
-            "hex": "#fcdcd9"
-        },
-        {
-            "name" : "color-red-200",
-            "hex": "#ffc8c4"
-        },
-        {
-            "name" : "color-red-300",
-            "hex": "#ffbab5"
-        },
-        {
-            "name" : "color-red-400",
-            "hex": "#ffaea8"
-        },
-        {
-            "name" : "color-red-500",
-            "hex": "#fc9992"
-        },
-        {
-            "name" : "color-red-600",
-            "hex": "#fc7b72"
-        },
-        {
-            "name" : "color-red-700",
-            "hex": "#ff6459"
-        },
-        {
-            "name" : "color-red-800",
-            "hex": "#fc3b2d"
-        },
-        {
-            "name" : "color-red-900",
-            "hex": "#ff1f0f"
-        },
-
         {
             "name" : "color-gray-0",
-            "hex": "#fff"
+            "hex": "#ffffff"
         },
         {
             "name" : "color-gray-100",
@@ -92,76 +34,19 @@
         },
         {
             "name" : "color-gray-200",
-            "hex": "#cfcfcf"
-        },
-        {
-            "name" : "color-gray-300",
             "hex": "#bdbdbd"
         },
         {
-            "name" : "color-gray-400",
-            "hex": "#a8a8a8"
-        },
-        {
-            "name" : "color-gray-500",
+            "name" : "color-gray-300",
             "hex": "#8a8a8a"
         },
         {
-            "name" : "color-gray-600",
-            "hex": "#707070"
-        },
-        {
-            "name" : "color-gray-700",
-            "hex": "#545454"
-        },
-        {
-            "name" : "color-gray-800",
+            "name" : "color-gray-400",
             "hex": "#363636"
         },
         {
-            "name" : "color-gray-900",
-            "hex": "#000"
-        },
-
-        {
-            "name" : "color-blue-0",
-            "hex": "#edf1ff"
-        },
-        {
-            "name" : "color-blue-100",
-            "hex": "#dbe3ff"
-        },
-        {
-            "name" : "color-blue-200",
-            "hex": "#c7d4ff"
-        },
-        {
-            "name" : "color-blue-300",
-            "hex": "#b0c2ff"
-        },
-        {
-            "name" : "color-blue-400",
-            "hex": "#8fa9ff"
-        },
-        {
-            "name" : "color-blue-500",
-            "hex": "#6e90ff"
-        },
-        {
-            "name" : "color-blue-600",
-            "hex": "#527bff"
-        },
-        {
-            "name" : "color-blue-700",
-            "hex": "#3061ff"
-        },
-        {
-            "name" : "color-blue-800",
-            "hex": "#174dff"
-        },
-        {
-            "name" : "color-blue-900",
-            "hex": "#003cff"
+            "name" : "color-gray-500",
+            "hex": "#000000"
         }
     ]
 }

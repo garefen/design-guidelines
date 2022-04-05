@@ -14,10 +14,6 @@ function colorList({color}) {
       <ColorItem colorClass={`${color}-300`}/>
       <ColorItem colorClass={`${color}-400`}/>
       <ColorItem colorClass={`${color}-500`}/>
-      <ColorItem colorClass={`${color}-600`}/>
-      <ColorItem colorClass={`${color}-700`}/>
-      <ColorItem colorClass={`${color}-800`}/>
-      <ColorItem colorClass={`${color}-900`}/>
     </div>
   );
 }

@@ -15,11 +15,10 @@ function ColorsReference({children, value, index, ...other}) {
       {value === index && (
         <>
           <div className="colorsReference__title">Colors Reference</div>
+          <div className="colorsReference__subtitle">Click on the color to copy it</div>
           <div className="colorsReference__wrapper">
             <ColorList color={'purple'}/>
             <ColorList color={'gray'}/>
-            <ColorList color={'red'}/>
-            <ColorList color={'blue'}/>
           </div>
         </>
         )}

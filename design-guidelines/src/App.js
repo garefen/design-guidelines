@@ -10,6 +10,7 @@ import Tabs from '@mui/material/Tabs';
 import Tab from '@mui/material/Tab';
 
 import React from 'react';
+import FontsReference from './components/FontsReference';
 
 function a11yProps(index) {
   return {
@@ -38,10 +39,12 @@ function App() {
           aria-label="basic tabs example">
           <Tab label="Colors Reference" {...a11yProps(0)} />
           <Tab label="Colors Usage" {...a11yProps(1)} />
+          <Tab label="Fonts Reference" {...a11yProps(2)} />
         </Tabs>
       </Box>
       <ColorsReference value={value} index={0} />
       <ColorsUsage value={value} index={1}/>
+      <FontsReference value={value} index={2}/>
       </div>
     </div>
   );
